@@ -726,8 +726,6 @@ footer {
     .nav-right{
         display: flex;
         align-items: center;
-        position: absolute;
-        top: 999;
     }
     
     
